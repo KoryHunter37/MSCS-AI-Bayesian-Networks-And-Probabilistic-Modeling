@@ -29,7 +29,7 @@ To start, I was given a series of information snippets, in plain English:
 
 I was tasked with using Bayesian networks to calculate a variety of probabilities based on these pieces of information. Additionally, we received extremely limited attempts to get the right answers, so I had to perform extremely careful and meticulous calculations by hand to help ensure my implementation was accurate.
 
-<p align="center"><img width="614" height="401" src=images/power-plant.png></img></p>
+<p align="center"><img width="614" height="401" src=images/power-plant.PNG></img></p>
 <div align="center"><b>Fig 2. Nuclear Power Plant Network</b></div>
 
 Above is the Bayesian network I designed based on the aforementioned information. I also used the percentages to create discrete distributions, which clarified exactly what sort of probabilistic relationship and effect each event would have on its children nodes.
